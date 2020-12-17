@@ -1,0 +1,181 @@
+﻿Field Name,Position Start,Size,Data Type
+State Jurisdiction Name,1,60,A
+County Jurisdiction Name,61,60,A
+City Jurisdiction Name,121,60,A
+Company Code,181,15,A/N
+Division Code,196,15,A/N
+Department Code,211,15,A/N
+Tax Category Code,226,5,A/N
+Location Code,231,15,A/N
+Record Type,246,1,A/N
+Taxable State,247,15,N
+Taxable County,262,15,N
+Taxable City,277,15,N
+Taxable District,292,15,N
+Tax State,307,15,N
+Tax County,322,15,N
+Tax City,337,15,N
+Tax District,352,15,N
+Exempt Amount State (1),367,15,N
+Exempt Code State (1),382,4,A/N
+Exempt Amount County (1),386,15,N
+Exempt Code County (1),401,4,A/N
+Exempt Amount City (1),405,15,N
+Exempt Code City (1),420,4,A/N
+Exempt Amount District (1),424,15,N
+Exempt Code District (1),439,4,A/N
+Exempt Amount State (2),443,15,N
+Exempt Code State (2),458,4,A/N
+Exempt Amount County (2),462,15,N
+Exempt Code County (2),477,4,A/N
+Exempt Amount City (2),481,15,N
+Exempt Code City (2),496,4,A/N
+Exempt Amount District (2),500,15,N
+Exempt Code District (2),515,4,A/N
+Exempt Amount State (3),519,15,N
+Exempt Code State (3),534,4,A/N
+Exempt Amount County (3),538,15,N
+Exempt Code County (3),553,4,A/N
+Exempt Amount City (3),557,15,N
+Exempt Code City (3),572,4,A/N
+Exempt Amount District (3),576,15,N
+Exempt Code District (3),591,4,A/N
+Exempt Amount State (4),595,15,N
+Exempt Code State (4),610,4,A/N
+Exempt Amount County (4),614,15,N
+Exempt Code County (4),629,4,A/N
+Exempt Amount City (4),633,15,N
+Exempt Code City (4),648,4,A/N
+Exempt Amount District (4),652,15,N
+Exempt Code District (4),667,4,A/N
+Exempt Amount State (5),671,15,N
+Exempt Code State (5),686,4,A/N
+Exempt Amount County (5),690,15,N
+Exempt Code County (5),705,4,A/N
+Exempt Amount City (5),709,15,N
+Exempt Code City (5),724,4,A/N
+Exempt Amount District (5),728,15,N
+Exempt Code District (5),743,4,A/N
+Exempt Amount State (6),747,15,N
+Exempt Code State (6),762,4,A/N
+Exempt Amount County (6),766,15,N
+Exempt Code County (6),781,4,A/N
+Exempt Amount City (6),785,15,N
+Exempt Code City (6),800,4,A/N
+Exempt Amount District (6),804,15,N
+Exempt Code District (6),819,4,A/N
+Exempt Amount State (7),823,15,N
+Exempt Code State (7),838,4,A/N
+Exempt Amount County (7),842,15,N
+Exempt Code County (7),857,4,A/N
+Exempt Amount City (7),861,15,N
+Exempt Code City (7),876,4,A/N
+Exempt Amount District (7),880,15,N
+Exempt Code District (7),895,4,A/N
+Exempt Amount State (8),899,15,N
+Exempt Code State (8),914,4,A/N
+Exempt Amount County (8),918,15,N
+Exempt Code County (8),933,4,A/N
+Exempt Amount City (8),937,15,N
+Exempt Code City (8),952,4,A/N
+Exempt Amount District (8),956,15,N
+Exempt Code District (8),971,4,A/N
+Exempt Amount State (9),975,15,N
+Exempt Code State (9),990,4,A/N
+Exempt Amount County (9),994,15,N
+Exempt Code County (9),1009,4,A/N
+Exempt Amount City (9),1013,15,N
+Exempt Code City (9),1028,4,A/N
+Exempt Amount District (9),1032,15,N
+Exempt Code District (9),1047,4,A/N
+Exempt Amount State (10),1051,15,N
+Exempt Code State (10),1066,4,A/N
+Exempt Amount County (10),1070,15,N
+Exempt Code County (10),1085,4,A/N
+Exempt Amount City (10),1089,15,N
+Exempt Code City (10),1104,4,A/N
+Exempt Amount District (10),1108,15,N
+Exempt Code District (10),1123,4,A/N
+Non Taxable Amount State (1),1127,15,N
+Non Taxable Code State (1),1142,4,A/N
+Non Taxable Amount County (1),1146,15,N
+Non Taxable Code County (1),1161,4,A/N
+Non Taxable Amount City (1),1165,15,N
+Non Taxable Code City (1),1180,4,A/N
+Non Taxable Amount District (1),1184,15,N
+Non Taxable Code District (1),1199,4,A/N
+Non Taxable Amount State (2),1203,15,N
+Non Taxable Code State (2),1218,4,A/N
+Non Taxable Amount County (2),1222,15,N
+Non Taxable Code County (2),1237,4,A/N
+Non Taxable Amount City (2),1241,15,N
+Non Taxable Code City (2),1256,4,A/N
+Non Taxable Amount District (2),1260,15,N
+Non Taxable Code District (2),1275,4,A/N
+Non Taxable Amount State (3),1279,15,N
+Non Taxable Code State (3),1294,4,A/N
+Non Taxable Amount County (3),1298,15,N
+Non Taxable Code County (3),1313,4,A/N
+Non Taxable Amount City (3),1317,15,N
+Non Taxable Code City (3),1332,4,A/N
+Non Taxable Amount District (3),1336,15,N
+Non Taxable Code District (3),1351,4,A/N
+Non Taxable Amount State (4),1355,15,N
+Non Taxable Code State (4),1370,4,A/N
+Non Taxable Amount County (4),1374,15,N
+Non Taxable Code County (4),1389,4,A/N
+Non Taxable Amount City (4),1393,15,N
+Non Taxable Code City (4),1408,4,A/N
+Non Taxable Amount District (4),1412,15,N
+Non Taxable Code District (4),1427,4,A/N
+Non Taxable Amount State (5),1431,15,N
+Non Taxable Code State (5),1446,4,A/N
+Non Taxable Amount County (5),1450,15,N
+Non Taxable Code County (5),1465,4,A/N
+Non Taxable Amount City (5),1469,15,N
+Non Taxable Code City (5),1484,4,A/N
+Non Taxable Amount District (5),1488,15,N
+Non Taxable Code District (5),1503,4,A/N
+Non Taxable Amount State (6),1507,15,N
+Non Taxable Code State (6),1522,4,A/N
+Non Taxable Amount County (6),1526,15,N
+Non Taxable Code County (6),1541,4,A/N
+Non Taxable Amount City (6),1545,15,N
+Non Taxable Code City (6),1560,4,A/N
+Non Taxable Amount District (6),1564,15,N
+Non Taxable Code District (6),1579,4,A/N
+Non Taxable Amount State (7),1583,15,N
+Non Taxable Code State (7),1598,4,A/N
+Non Taxable Amount County (7),1602,15,N
+Non Taxable Code County (7),1617,4,A/N
+Non Taxable Amount City (7),1621,15,N
+Non Taxable Code City (7),1636,4,A/N
+Non Taxable Amount District (7),1640,15,N
+Non Taxable Code District (7),1655,4,A/N
+Non Taxable Amount State (8),1659,15,N
+Non Taxable Code State (8),1674,4,A/N
+Non Taxable Amount County (8),1678,15,N
+Non Taxable Code County (8),1693,4,A/N
+Non Taxable Amount City (8),1697,15,N
+Non Taxable Code City (8),1712,4,A/N
+Non Taxable Amount District (8),1716,15,N
+Non Taxable Code District (8),1731,4,A/N
+Non Taxable Amount State (9),1735,15,N
+Non Taxable Code State (9),1750,4,A/N
+Non Taxable Amount County (9),1754,15,N
+Non Taxable Code County (9),1769,4,A/N
+Non Taxable Amount City (9),1773,15,N
+Non Taxable Code City (9),1788,4,A/N
+Non Taxable Amount District (9),1792,15,N
+Non Taxable Code District (9),1807,4,A/N
+Non Taxable Amount State (10),1811,15,N
+Non Taxable Code State (10),1826,4,A/N
+Non Taxable Amount County (10),1830,15,N
+Non Taxable Code County (10),1845,4,A/N
+Non Taxable Amount City (10),1849,15,N
+Non Taxable Code City (10),1864,4,A/N
+Non Taxable Amount District (10),1868,15,N
+Non Taxable Code District (10),1883,4,A/N
+Tax Area ID,1887,9,N
+Physical Origin Tax Area ID,1896,9,N
+Imposition Type – Imposition Name,1905,121,A
